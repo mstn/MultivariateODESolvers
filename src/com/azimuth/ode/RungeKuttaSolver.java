@@ -4,7 +4,7 @@ package com.azimuth.ode;
 /**
  * A solver for ODE implementing the generic Runge Kutta algorithm
  * 
- * @see http://it.wikipedia.org/wiki/Metodi_di_Runge-Kutta
+ * @see http://en.wikipedia.org/wiki/Runge-Kutta_methods
  * @author marco
  * 
  */
@@ -21,7 +21,7 @@ public class RungeKuttaSolver implements Solver{
 	 * The Butcher Tableau is a matrix of coefficients used in the Runge-Kutta
 	 * method
 	 * 
-	 * @see http://it.wikipedia.org/wiki/Metodi_di_Runge-Kutta
+	 * @see http://en.wikipedia.org/wiki/Runge-Kutta_methods
 	 * @author marco
 	 * 
 	 */
